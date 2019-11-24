@@ -41,7 +41,7 @@ of the image belonging to the two most probable classes.
 
 
 ### main.py
-train the models using the labeled data in data.zip and save the training and validation results.
+train the models using the labeled data in data.zip (https://drive.google.com/file/d/109tR-70wA-zFYgY5a1LmIPaLHpZvJjLp/view?usp=sharing) and save the training and validation results.
 By default, it uses the pretrained ResNet18 model. Make sure the data is in the same directory of main.py
 
 ### user.py 
